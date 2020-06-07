@@ -103,6 +103,8 @@ body{
 
 #interest-header{
 	font-family: 'Bungee Inline', 'cursive';
+	background: #9099A2;
+	padding-left: 3px;
 }
 
 .interest-section{
@@ -116,7 +118,7 @@ body{
 
 .site-footer{
 	position: relative;
-	bottom: 5px;
+	bottom: 3px;
 	background-color: #6D7993;
 	margin-left:  10px;
 	margin-right: 10px;
