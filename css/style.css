@@ -40,16 +40,77 @@ body{
 
 #left-section{
 	display: inline-block;
-	margin-left: 3%;
-	width: 28%;
+	margin: 2%;
+	padding: 5px;
+	width: 45%;
 	text-align: justify;
+	float: left;
 }
 
 #left-section-header{
 	font-family: 'Bungee Inline', 'cursive';
 }
 
+#projects{
+	display: inline-block;
+	padding: 5px;
+	margin-left: 3%;
+	margin-top: 3%;
+	height: 100%;
+	width: 39%;
+}
 
+#projects: after{
+	clear: both;
+}
+
+#projects-header{
+	font-family: 'Bungee Inline', 'cursive';
+	margin-top: 0px;
+
+	
+}
+
+.projects-btn-group button{
+	background: #96858F;
+	display: inline-block;
+	border: 1px solid #96858F;
+	color: #ffffff;
+	padding: 7px 24px;
+	margin-left: 5px;
+	cursor: pointer;
+	width: 30%;
+	height: 120px;
+	
+}
+
+.projects-btn-group: after{
+	content: "";
+	clear: both;
+	margin-bottom: ;
+}
+
+.projects-btn-group:not(:last-child){
+	border-right: none;
+}
+
+.projects-btn-group button:hover{
+	background: #D5D5D5;
+	color: #000000;
+}
+/*
+.interest-section{
+	clear: both;
+	display: block;
+	margin-left: 2%;
+	margin-right: 2%;
+	text-align: justify;
+}
+
+#interest-header{
+	font-family: 'Bungee Inline', 'cursive';
+}
+*/
 .site-footer{
 	position: relative;
 	bottom: 5px;
