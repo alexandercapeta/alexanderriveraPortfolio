@@ -1,3 +1,10 @@
 body{
 	margin: 0;
+	background-color: #D5D5D5;
+}
+
+#main-page-header{
+	font-family: Bungee Inline;
+	font-size: 45px;
+	text-align: center;
 }
