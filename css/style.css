@@ -5,14 +5,17 @@ body{
 
 #main-page-header{
 	font-family: Bungee Inline;
-	font-size: 45px;
+	font-size: 50px;
 	text-align: center;
+	margin-top: 8px;
 	margin-bottom: 2px;
 }
 
 .topnav{
 	overflow: hidden;
 	background: #6D7993;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .topnav a{
@@ -30,6 +33,15 @@ body{
 }
 
 .topnav a.active{
-	background-color: #9099A2;
+	background-color: #9099A2d;
 	color: white;
 }
+/*
+.site-footer{
+	background-color: #6D7993;
+}
+
+#rivera-stamp{
+	text-align: center;
+}
+*/
