@@ -21,6 +21,7 @@ body{
 .topnav a{
 	float: left;
 	color: #f2f2f2;
+	font-family: 'Architects Daughter', 'cursive';
 	text-decoration: none;
 	text-align: center;
 	padding: 14px 16px;
@@ -33,7 +34,7 @@ body{
 }
 
 .topnav a.active{
-	background-color: #9099A2d;
+	background-color: #9099a2;
 	color: white;
 }
 
