@@ -38,6 +38,18 @@ body{
 	color: white;
 }
 
+#left-section{
+	display: inline-block;
+	margin-left: 3%;
+	width: 28%;
+	text-align: justify;
+}
+
+#left-section-header{
+	font-family: 'Bungee Inline', 'cursive';
+}
+
+
 .site-footer{
 	position: relative;
 	bottom: 5px;
