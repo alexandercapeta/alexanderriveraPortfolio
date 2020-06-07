@@ -39,6 +39,8 @@ body{
 }
 
 .site-footer{
+	position: relative;
+	bottom: 5px;
 	background-color: #6D7993;
 	margin-left:  10px;
 	margin-right: 10px;
