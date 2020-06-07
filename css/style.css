@@ -99,16 +99,17 @@ body{
 	color: #000000;
 }
 
+#interest-header{
+	font-family: 'Bungee Inline', 'cursive';
+}
+
 .interest-section{
 	clear: both;
 	display: block;
 	margin-left: 2%;
 	margin-right: 2%;
 	text-align: justify;
-}
-
-#interest-header{
-	font-family: 'Bungee Inline', 'cursive';
+	font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .site-footer{
