@@ -50,6 +50,8 @@ body{
 
 #left-section-header{
 	font-family: 'Bungee Inline', 'cursive';
+	padding-left: 3px;
+	background: #9099A2;
 }
 
 #projects{
