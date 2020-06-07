@@ -4,7 +4,7 @@ body{
 }
 
 #main-page-header{
-	font-family: Bungee Inline;
+	font-family: 'Bungee Inline', 'cursive';
 	font-size: 50px;
 	text-align: center;
 	margin-top: 8px;
@@ -36,12 +36,20 @@ body{
 	background-color: #9099A2d;
 	color: white;
 }
-/*
+
 .site-footer{
 	background-color: #6D7993;
+	margin-left:  10px;
+	margin-right: 10px;
 }
+/*
+.fa{
+
+}*/
 
 #rivera-stamp{
 	text-align: center;
+	font-family: 'Architects Daughter', 'cursive';
 }
-*/
+
+
