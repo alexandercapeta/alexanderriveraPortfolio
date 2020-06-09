@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+}
+
+#nav{
+	background: gray;
+	height: 40px;
+	width: 100%;
+	position: sticky;
+	top: 0px;
+}
+
+#fpar{
+	background: red;
+	display: inline-block;
+	position: absolute;
+	left: 10px;
+}
+
+#spar{
+	background: blue;
+	display: inline-block;
+	position: absolute;
+	left: 60px;
+}
+
+#spar{
+	display: inline-block;
+}
+
+#tpar{
+	background: green;
+	position: relative;
+	bottom: 0px;
+}
