@@ -14,8 +14,11 @@ body{
 .topnav{
 	overflow: hidden;
 	background: #6D7993;
+	margin-top: 0px;
 	margin-left: 10px;
 	margin-right: 10px;
+	position: sticky;
+	top: 0px;
 }
 
 .topnav a{
@@ -130,8 +133,8 @@ body{
 }
 
 .fa{
-	padding: 20px;
-	font-size: 30px;
+	padding: 15px;
+	font-size: 20px;
 	width: 30px;
 	text-align: center;
 	text-decoration: none;
@@ -152,6 +155,11 @@ body{
 	background: #007bb5;
 	color: white;
 }
+/*
+.fa-github{
+	background: #000000;
+	color: white;
+}*/
 
 #rivera-stamp{
 	text-align: center;
